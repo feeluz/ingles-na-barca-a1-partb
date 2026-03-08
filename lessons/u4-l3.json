@@ -1,0 +1,87 @@
+{
+  "id": "u4l3",
+  "title": "Unidade 4 · Lição 3 – Languages",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Languages example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Languages example 2.",
+      "options": [
+        "Languages",
+        "2. example Languages",
+        "Languages example 2.",
+        "Languages example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "Languages",
+        ".",
+        "example"
+      ],
+      "answer": "Languages example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Languages example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Languages example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Languages example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Languages example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Languages example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Languages example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Languages example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Languages example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Languages example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Languages example 5.",
+      "options": [
+        "Languages",
+        "Languages example 5.",
+        "Languages example 5",
+        "5. example Languages"
+      ],
+      "answer": 1
+    }
+  ]
+}

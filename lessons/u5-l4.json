@@ -1,0 +1,89 @@
+{
+  "id": "u5l4",
+  "title": "Unidade 5 · Lição 4 – Talking about people",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Talking about people example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Talking about people example 2.",
+      "options": [
+        "Talking",
+        "Talking about people example 2",
+        "Talking about people example 2.",
+        "2. example people about Talking"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Talking",
+        "3",
+        "people",
+        ".",
+        "example",
+        "about"
+      ],
+      "answer": "Talking about people example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Talking about people example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Talking about people example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Talking about people example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Talking about people example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Talking about people example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Talking about people example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Talking about people example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Talking about people example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Talking about people example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Talking about people example 5.",
+      "options": [
+        "5. example people about Talking",
+        "Talking about people example 5",
+        "Talking about people example 5.",
+        "Talking"
+      ],
+      "answer": 2
+    }
+  ]
+}

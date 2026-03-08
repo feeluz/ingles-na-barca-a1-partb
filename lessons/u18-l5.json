@@ -1,0 +1,88 @@
+{
+  "id": "u18l5",
+  "title": "Unidade 18 · Lição 5 – Travel review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Travel review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel review example 2.",
+      "options": [
+        "Travel review example 2",
+        "Travel",
+        "Travel review example 2.",
+        "2. example review Travel"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "example",
+        "Travel",
+        "review",
+        "3"
+      ],
+      "answer": "Travel review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Travel review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Travel review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Travel review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Travel review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Travel review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "Travel review example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Travel review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Travel review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Travel review example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel review example 5.",
+      "options": [
+        "Travel review example 5",
+        "Travel review example 5.",
+        "5. example review Travel",
+        "Travel"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u18l6",
+  "title": "Unidade 18 · Lição 6 – Listening travel",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening travel example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening travel example 2.",
+      "options": [
+        "2. example travel Listening",
+        "Listening travel example 2.",
+        "Listening",
+        "Listening travel example 2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "example",
+        ".",
+        "travel",
+        "Listening"
+      ],
+      "answer": "Listening travel example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening travel example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening travel example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening travel example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening travel example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening travel example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "Listening travel example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Listening travel example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Listening travel example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Listening travel example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening travel example 5.",
+      "options": [
+        "Listening travel example 5",
+        "5. example travel Listening",
+        "Listening",
+        "Listening travel example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

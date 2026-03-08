@@ -1,0 +1,89 @@
+{
+  "id": "u7l4",
+  "title": "Unidade 7 · Lição 4 – Simple restaurant talk",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Simple restaurant talk example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple restaurant talk example 2.",
+      "options": [
+        "Simple restaurant talk example 2.",
+        "2. example talk restaurant Simple",
+        "Simple restaurant talk example 2",
+        "Simple"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "talk",
+        "Simple",
+        "example",
+        "3",
+        "restaurant",
+        "."
+      ],
+      "answer": "Simple restaurant talk example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Simple restaurant talk example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Simple restaurant talk example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Simple restaurant talk example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Simple restaurant talk example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Simple restaurant talk example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Simple restaurant talk example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Simple restaurant talk example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Simple restaurant talk example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Simple restaurant talk example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple restaurant talk example 5.",
+      "options": [
+        "5. example talk restaurant Simple",
+        "Simple",
+        "Simple restaurant talk example 5",
+        "Simple restaurant talk example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

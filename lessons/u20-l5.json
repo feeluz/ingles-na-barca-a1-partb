@@ -1,0 +1,89 @@
+{
+  "id": "u20l5",
+  "title": "Unidade 20 · Lição 5 – Final review B",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Final review B example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Final review B example 2.",
+      "options": [
+        "Final review B example 2",
+        "Final review B example 2.",
+        "Final",
+        "2. example B review Final"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Final",
+        "example",
+        "B",
+        ".",
+        "review",
+        "3"
+      ],
+      "answer": "Final review B example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Final review B example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Final review B example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Final review B example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Final review B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Final review B example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Final review B example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Final review B example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Final review B example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Final review B example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Final review B example 5.",
+      "options": [
+        "Final review B example 5.",
+        "5. example B review Final",
+        "Final",
+        "Final review B example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Inglês na Barca</title><link rel="stylesheet" href="styles.css"/></head>
+<body>
+<header class="topbar">
+  <div class="brand"><div class="logo-circle">⛵</div><div><h1>Inglês na Barca</h1><p>sempre juntos nessa barca</p></div></div>
+  <div class="stats"><div class="stat">XP <strong id="xpStat">0</strong></div><div class="stat">Sequência <strong id="streakStat">0</strong></div></div>
+</header>
+<main class="page">
+  <aside class="side-panel">
+    <div class="panel-block"><div class="eyebrow">Mapa do curso</div><h2>Embarque</h2><p>20 unidades, 120 lições e progresso salvo no navegador.</p></div>
+    <div class="panel-block"><div class="eyebrow">Seu progresso</div><div class="progress-big" id="progressBig">0%</div><div class="progress-bar"><div id="progressFill" class="progress-fill"></div></div><p class="mini" id="progressText">0 de 120 lições concluídas</p></div>
+    <div class="panel-block"><button id="resetBtn" class="action-btn">Resetar progresso</button></div>
+    <div class="panel-block"><div class="eyebrow">Legenda</div><div class="legend"><span class="dot done"></span> Concluída</div><div class="legend"><span class="dot current"></span> Atual</div><div class="legend"><span class="dot locked"></span> Bloqueada</div></div>
+  </aside>
+  <section class="map-shell">
+    <svg class="path-line" viewBox="0 0 100 130" preserveAspectRatio="none"><path id="routePath" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1.6" stroke-dasharray="2.4 2.4" stroke-linecap="round"></path></svg>
+    <div id="boat" class="boat">⛵</div>
+    <div id="unitContainer"></div>
+    <div class="destination"><div class="eyebrow">Destino</div><h3>Farol · A2 Ready</h3><p>Depois da Unidade 20, o aluno conclui o ciclo completo de A1.</p></div>
+  </section>
+</main>
+<script src="course-data.js"></script><script src="app.js"></script></body></html>

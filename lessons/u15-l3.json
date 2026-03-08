@@ -1,0 +1,88 @@
+{
+  "id": "u15l3",
+  "title": "Unidade 15 · Lição 3 – Wild animals",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Wild animals example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Wild animals example 2.",
+      "options": [
+        "Wild animals example 2.",
+        "Wild",
+        "2. example animals Wild",
+        "Wild animals example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Wild",
+        "animals",
+        ".",
+        "3",
+        "example"
+      ],
+      "answer": "Wild animals example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Wild animals example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Wild animals example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Wild animals example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Wild animals example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Wild animals example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Wild animals example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Wild animals example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Wild animals example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Wild animals example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Wild animals example 5.",
+      "options": [
+        "Wild animals example 5.",
+        "5. example animals Wild",
+        "Wild",
+        "Wild animals example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u2l2",
+  "title": "Unidade 2 · Lição 2 – How are you?",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "How are you?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am fine.",
+      "options": [
+        "I am fine",
+        "fine. am I",
+        "I",
+        "I am fine."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "am",
+        "good",
+        "I",
+        "."
+      ],
+      "answer": "I am good."
+    },
+    {
+      "type": "dictation",
+      "text": "I am very good."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "How are you?"
+        },
+        {
+          "id": "l2",
+          "text": "I am fine."
+        },
+        {
+          "id": "l3",
+          "text": "I am good."
+        },
+        {
+          "id": "l4",
+          "text": "I am very good."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "How are you?"
+        },
+        {
+          "id": "l4",
+          "text": "I am very good."
+        },
+        {
+          "id": "l2",
+          "text": "I am fine."
+        },
+        {
+          "id": "l3",
+          "text": "I am good."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am okay.",
+      "options": [
+        "I am okay.",
+        "I am okay",
+        "okay. am I",
+        "I"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u4l1",
+  "title": "Unidade 4 · Lição 1 – Countries",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Countries example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Countries example 2.",
+      "options": [
+        "Countries",
+        "2. example Countries",
+        "Countries example 2",
+        "Countries example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        ".",
+        "example",
+        "Countries"
+      ],
+      "answer": "Countries example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Countries example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Countries example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Countries example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Countries example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Countries example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Countries example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Countries example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Countries example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Countries example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Countries example 5.",
+      "options": [
+        "Countries example 5.",
+        "Countries example 5",
+        "5. example Countries",
+        "Countries"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u6l6",
+  "title": "Unidade 6 · Lição 6 – Listening practice",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening practice example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening practice example 2.",
+      "options": [
+        "Listening",
+        "Listening practice example 2",
+        "Listening practice example 2.",
+        "2. example practice Listening"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "Listening",
+        ".",
+        "example",
+        "practice"
+      ],
+      "answer": "Listening practice example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening practice example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening practice example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening practice example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening practice example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening practice example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Listening practice example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Listening practice example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Listening practice example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Listening practice example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening practice example 5.",
+      "options": [
+        "5. example practice Listening",
+        "Listening",
+        "Listening practice example 5.",
+        "Listening practice example 5"
+      ],
+      "answer": 2
+    }
+  ]
+}

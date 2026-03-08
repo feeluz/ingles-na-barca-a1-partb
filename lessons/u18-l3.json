@@ -1,0 +1,89 @@
+{
+  "id": "u18l3",
+  "title": "Unidade 18 · Lição 3 – At the airport",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "At the airport example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the airport example 2.",
+      "options": [
+        "At the airport example 2",
+        "2. example airport the At",
+        "At the airport example 2.",
+        "At"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "3",
+        "At",
+        "airport",
+        ".",
+        "the"
+      ],
+      "answer": "At the airport example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "At the airport example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "At the airport example 1."
+        },
+        {
+          "id": "l2",
+          "text": "At the airport example 2."
+        },
+        {
+          "id": "l3",
+          "text": "At the airport example 3."
+        },
+        {
+          "id": "l4",
+          "text": "At the airport example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "At the airport example 3."
+        },
+        {
+          "id": "l1",
+          "text": "At the airport example 1."
+        },
+        {
+          "id": "l4",
+          "text": "At the airport example 4."
+        },
+        {
+          "id": "l2",
+          "text": "At the airport example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the airport example 5.",
+      "options": [
+        "5. example airport the At",
+        "At the airport example 5.",
+        "At the airport example 5",
+        "At"
+      ],
+      "answer": 1
+    }
+  ]
+}

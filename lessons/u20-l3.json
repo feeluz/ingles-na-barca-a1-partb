@@ -1,0 +1,88 @@
+{
+  "id": "u20l3",
+  "title": "Unidade 20 · Lição 3 – Simple storytelling",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Simple storytelling example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple storytelling example 2.",
+      "options": [
+        "Simple storytelling example 2",
+        "Simple storytelling example 2.",
+        "2. example storytelling Simple",
+        "Simple"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Simple",
+        "3",
+        "storytelling",
+        ".",
+        "example"
+      ],
+      "answer": "Simple storytelling example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Simple storytelling example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Simple storytelling example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Simple storytelling example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Simple storytelling example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Simple storytelling example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Simple storytelling example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Simple storytelling example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Simple storytelling example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Simple storytelling example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple storytelling example 5.",
+      "options": [
+        "5. example storytelling Simple",
+        "Simple",
+        "Simple storytelling example 5",
+        "Simple storytelling example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

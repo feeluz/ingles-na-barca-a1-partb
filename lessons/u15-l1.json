@@ -1,0 +1,87 @@
+{
+  "id": "u15l1",
+  "title": "Unidade 15 · Lição 1 – Animals",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Animals example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animals example 2.",
+      "options": [
+        "Animals example 2",
+        "Animals",
+        "Animals example 2.",
+        "2. example Animals"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        ".",
+        "Animals",
+        "example"
+      ],
+      "answer": "Animals example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Animals example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Animals example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Animals example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Animals example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Animals example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Animals example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Animals example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Animals example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Animals example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animals example 5.",
+      "options": [
+        "Animals example 5",
+        "5. example Animals",
+        "Animals example 5.",
+        "Animals"
+      ],
+      "answer": 2
+    }
+  ]
+}

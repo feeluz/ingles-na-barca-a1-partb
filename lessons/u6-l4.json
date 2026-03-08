@@ -1,0 +1,89 @@
+{
+  "id": "u6l4",
+  "title": "Unidade 6 · Lição 4 – Simple day description",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Simple day description example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple day description example 2.",
+      "options": [
+        "Simple day description example 2",
+        "Simple",
+        "Simple day description example 2.",
+        "2. example description day Simple"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "day",
+        "description",
+        "example",
+        ".",
+        "3",
+        "Simple"
+      ],
+      "answer": "Simple day description example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Simple day description example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Simple day description example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Simple day description example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Simple day description example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Simple day description example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Simple day description example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Simple day description example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Simple day description example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Simple day description example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple day description example 5.",
+      "options": [
+        "Simple",
+        "Simple day description example 5",
+        "5. example description day Simple",
+        "Simple day description example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

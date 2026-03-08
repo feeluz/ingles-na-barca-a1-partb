@@ -1,0 +1,88 @@
+{
+  "id": "u1l1",
+  "title": "Unidade 1 · Lição 1 – My name",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "My name is Alex."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "My name is Maria.",
+      "options": [
+        "Maria. is name My",
+        "My",
+        "My name is Maria",
+        "My name is Maria."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "name",
+        ".",
+        "My",
+        "is",
+        "John"
+      ],
+      "answer": "My name is John."
+    },
+    {
+      "type": "dictation",
+      "text": "My name is Anna."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "My name is Alex."
+        },
+        {
+          "id": "l2",
+          "text": "My name is Maria."
+        },
+        {
+          "id": "l3",
+          "text": "My name is John."
+        },
+        {
+          "id": "l4",
+          "text": "My name is Anna."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "My name is Alex."
+        },
+        {
+          "id": "l2",
+          "text": "My name is Maria."
+        },
+        {
+          "id": "l3",
+          "text": "My name is John."
+        },
+        {
+          "id": "l4",
+          "text": "My name is Anna."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "My name is Lucas.",
+      "options": [
+        "My name is Lucas",
+        "My",
+        "My name is Lucas.",
+        "Lucas. is name My"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u13l4",
+  "title": "Unidade 13 · Lição 4 – Past review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Past review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Past review example 2.",
+      "options": [
+        "2. example review Past",
+        "Past review example 2",
+        "Past",
+        "Past review example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Past",
+        ".",
+        "review",
+        "3",
+        "example"
+      ],
+      "answer": "Past review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Past review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Past review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Past review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Past review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Past review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "Past review example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Past review example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Past review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Past review example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Past review example 5.",
+      "options": [
+        "Past review example 5.",
+        "Past",
+        "5. example review Past",
+        "Past review example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

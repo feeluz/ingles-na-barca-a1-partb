@@ -1,0 +1,90 @@
+{
+  "id": "u8l1",
+  "title": "Unidade 8 · Lição 1 – Places in the city",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Places in the city example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Places in the city example 2.",
+      "options": [
+        "2. example city the in Places",
+        "Places",
+        "Places in the city example 2",
+        "Places in the city example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "city",
+        "the",
+        "Places",
+        "3",
+        "in",
+        "."
+      ],
+      "answer": "Places in the city example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Places in the city example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Places in the city example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Places in the city example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Places in the city example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Places in the city example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Places in the city example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Places in the city example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Places in the city example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Places in the city example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Places in the city example 5.",
+      "options": [
+        "Places in the city example 5.",
+        "Places in the city example 5",
+        "5. example city the in Places",
+        "Places"
+      ],
+      "answer": 0
+    }
+  ]
+}

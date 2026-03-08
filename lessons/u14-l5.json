@@ -1,0 +1,88 @@
+{
+  "id": "u14l5",
+  "title": "Unidade 14 · Lição 5 – Negative review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Negative review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Negative review example 2.",
+      "options": [
+        "Negative",
+        "2. example review Negative",
+        "Negative review example 2.",
+        "Negative review example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "review",
+        "3",
+        ".",
+        "Negative"
+      ],
+      "answer": "Negative review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Negative review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Negative review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Negative review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Negative review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Negative review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Negative review example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Negative review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Negative review example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Negative review example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Negative review example 5.",
+      "options": [
+        "Negative",
+        "Negative review example 5.",
+        "Negative review example 5",
+        "5. example review Negative"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "u7l3",
+  "title": "Unidade 7 · Lição 3 – I like / I don't like",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I like / I don't like example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I like / I don't like example 2.",
+      "options": [
+        "I",
+        "I like / I don't like example 2.",
+        "I like / I don't like example 2",
+        "2. example like don't I / like I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "I",
+        "3",
+        "/",
+        "I",
+        ".",
+        "like",
+        "like",
+        "don't"
+      ],
+      "answer": "I like / I don't like example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "I like / I don't like example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I like / I don't like example 1."
+        },
+        {
+          "id": "l2",
+          "text": "I like / I don't like example 2."
+        },
+        {
+          "id": "l3",
+          "text": "I like / I don't like example 3."
+        },
+        {
+          "id": "l4",
+          "text": "I like / I don't like example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "I like / I don't like example 2."
+        },
+        {
+          "id": "l3",
+          "text": "I like / I don't like example 3."
+        },
+        {
+          "id": "l1",
+          "text": "I like / I don't like example 1."
+        },
+        {
+          "id": "l4",
+          "text": "I like / I don't like example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I like / I don't like example 5.",
+      "options": [
+        "I like / I don't like example 5",
+        "5. example like don't I / like I",
+        "I",
+        "I like / I don't like example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

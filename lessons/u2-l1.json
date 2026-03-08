@@ -1,0 +1,89 @@
+{
+  "id": "u2l1",
+  "title": "Unidade 2 · Lição 1 – Basic greetings",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Hello."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Hi.",
+      "options": [
+        "Hi",
+        "Hi.",
+        "Hi.",
+        "Hi."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "my",
+        "Hello,",
+        "Alex",
+        "is",
+        "name",
+        "."
+      ],
+      "answer": "Hello, my name is Alex."
+    },
+    {
+      "type": "dictation",
+      "text": "Hi, my name is Maria."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Hello."
+        },
+        {
+          "id": "l2",
+          "text": "Hi."
+        },
+        {
+          "id": "l3",
+          "text": "Hello, my name is Alex."
+        },
+        {
+          "id": "l4",
+          "text": "Hi, my name is Maria."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Hi."
+        },
+        {
+          "id": "l3",
+          "text": "Hello, my name is Alex."
+        },
+        {
+          "id": "l1",
+          "text": "Hello."
+        },
+        {
+          "id": "l4",
+          "text": "Hi, my name is Maria."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Good morning.",
+      "options": [
+        "Good morning.",
+        "morning. Good",
+        "Good morning",
+        "Good"
+      ],
+      "answer": 0
+    }
+  ]
+}

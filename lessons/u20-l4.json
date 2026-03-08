@@ -1,0 +1,88 @@
+{
+  "id": "u20l4",
+  "title": "Unidade 20 · Lição 4 – Story sentences",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Story sentences example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Story sentences example 2.",
+      "options": [
+        "Story sentences example 2",
+        "Story",
+        "Story sentences example 2.",
+        "2. example sentences Story"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "sentences",
+        ".",
+        "example",
+        "3",
+        "Story"
+      ],
+      "answer": "Story sentences example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Story sentences example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Story sentences example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Story sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Story sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Story sentences example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Story sentences example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Story sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Story sentences example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Story sentences example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Story sentences example 5.",
+      "options": [
+        "Story sentences example 5.",
+        "Story sentences example 5",
+        "Story",
+        "5. example sentences Story"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u12l6",
+  "title": "Unidade 12 · Lição 6 – Listening food",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening food example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening food example 2.",
+      "options": [
+        "Listening",
+        "Listening food example 2.",
+        "2. example food Listening",
+        "Listening food example 2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "food",
+        "Listening",
+        "example",
+        "3",
+        "."
+      ],
+      "answer": "Listening food example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening food example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening food example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening food example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening food example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening food example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Listening food example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Listening food example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Listening food example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening food example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening food example 5.",
+      "options": [
+        "Listening food example 5",
+        "Listening",
+        "Listening food example 5.",
+        "5. example food Listening"
+      ],
+      "answer": 2
+    }
+  ]
+}

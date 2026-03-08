@@ -1,0 +1,89 @@
+{
+  "id": "u16l2",
+  "title": "Unidade 16 · Lição 2 – Clothes vocabulary B",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Clothes vocabulary B example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Clothes vocabulary B example 2.",
+      "options": [
+        "Clothes vocabulary B example 2.",
+        "2. example B vocabulary Clothes",
+        "Clothes",
+        "Clothes vocabulary B example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "B",
+        ".",
+        "vocabulary",
+        "3",
+        "Clothes",
+        "example"
+      ],
+      "answer": "Clothes vocabulary B example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Clothes vocabulary B example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Clothes vocabulary B example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Clothes vocabulary B example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Clothes vocabulary B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Clothes vocabulary B example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Clothes vocabulary B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Clothes vocabulary B example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Clothes vocabulary B example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Clothes vocabulary B example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Clothes vocabulary B example 5.",
+      "options": [
+        "Clothes",
+        "Clothes vocabulary B example 5.",
+        "5. example B vocabulary Clothes",
+        "Clothes vocabulary B example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

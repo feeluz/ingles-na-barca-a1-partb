@@ -1,0 +1,87 @@
+{
+  "id": "u2l5",
+  "title": "Unidade 2 · Lição 5 – Review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review example 2.",
+      "options": [
+        "Review example 2",
+        "Review",
+        "2. example Review",
+        "Review example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Review",
+        ".",
+        "3",
+        "example"
+      ],
+      "answer": "Review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Review example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Review example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review example 5.",
+      "options": [
+        "Review example 5",
+        "Review example 5.",
+        "Review",
+        "5. example Review"
+      ],
+      "answer": 1
+    }
+  ]
+}

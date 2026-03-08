@@ -1,0 +1,88 @@
+{
+  "id": "u11l3",
+  "title": "Unidade 11 · Lição 3 – Alphabet M–R",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Alphabet M–R example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet M–R example 2.",
+      "options": [
+        "Alphabet",
+        "Alphabet M–R example 2",
+        "Alphabet M–R example 2.",
+        "2. example M–R Alphabet"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "M–R",
+        "example",
+        "Alphabet",
+        "3"
+      ],
+      "answer": "Alphabet M–R example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Alphabet M–R example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Alphabet M–R example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Alphabet M–R example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet M–R example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet M–R example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Alphabet M–R example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Alphabet M–R example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet M–R example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet M–R example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet M–R example 5.",
+      "options": [
+        "Alphabet",
+        "5. example M–R Alphabet",
+        "Alphabet M–R example 5.",
+        "Alphabet M–R example 5"
+      ],
+      "answer": 2
+    }
+  ]
+}

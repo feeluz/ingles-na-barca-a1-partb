@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Inglês na Barca — Lição</title><link rel="stylesheet" href="styles.css"/></head>
+<body>
+<header class="topbar">
+  <div class="brand small"><div class="logo-circle">⛵</div><div><h1>Inglês na Barca</h1><p>sempre juntos nessa barca</p></div></div>
+  <a id="backToUnit" class="back-link" href="index.html">← Voltar</a>
+</header>
+<main class="lesson-page">
+  <section class="lesson-card" id="lessonCard">
+    <div class="lesson-head"><div><div class="eyebrow" id="lessonUnitLabel">Unidade</div><h2 id="lessonTitle"></h2></div><div class="lesson-meta"><div id="heartsBox" class="hearts">❤️❤️❤️</div><div class="xp-badge" id="lessonXp">+0 XP</div></div></div>
+    <div class="progress-bar"><div id="lessonProgressFill" class="progress-fill"></div></div>
+    <div id="exerciseBox" class="exercise-box"></div>
+    <div id="feedbackBox" class="feedback-box hidden"></div>
+    <div class="lesson-actions"><button id="playBtn" class="action-btn alt" type="button">🔊 Ouvir</button><button id="checkBtn" class="action-btn" type="button">Conferir</button><button id="nextBtn" class="action-btn hidden" type="button">Próximo</button></div>
+  </section>
+  <section class="lesson-card hidden" id="finishCard">
+    <div class="eyebrow">Lição concluída</div><h2>Muito bem.</h2><p id="finishSummary"></p>
+    <div class="finish-grid"><div class="finish-box"><strong id="finishXp">0</strong><span>XP ganho</span></div><div class="finish-box"><strong id="finishStreak">0</strong><span>Sequência</span></div></div>
+    <div class="lesson-actions"><a id="retryLink" class="action-btn alt" href="#">Refazer</a><a id="continueLink" class="action-btn" href="index.html">Continuar</a></div>
+  </section>
+</main>
+<script src="course-data.js"></script><script src="app.js"></script></body></html>

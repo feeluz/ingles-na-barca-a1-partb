@@ -1,0 +1,88 @@
+{
+  "id": "u17l4",
+  "title": "Unidade 17 · Lição 4 – Home sentences",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Home sentences example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Home sentences example 2.",
+      "options": [
+        "Home sentences example 2",
+        "Home sentences example 2.",
+        "2. example sentences Home",
+        "Home"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Home",
+        "sentences",
+        "3",
+        "example",
+        "."
+      ],
+      "answer": "Home sentences example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Home sentences example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Home sentences example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Home sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Home sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Home sentences example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Home sentences example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Home sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Home sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Home sentences example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Home sentences example 5.",
+      "options": [
+        "Home",
+        "5. example sentences Home",
+        "Home sentences example 5.",
+        "Home sentences example 5"
+      ],
+      "answer": 2
+    }
+  ]
+}

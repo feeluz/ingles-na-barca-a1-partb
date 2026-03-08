@@ -1,0 +1,88 @@
+{
+  "id": "u8l4",
+  "title": "Unidade 8 · Lição 4 – Simple navigation",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Simple navigation example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple navigation example 2.",
+      "options": [
+        "Simple navigation example 2",
+        "2. example navigation Simple",
+        "Simple",
+        "Simple navigation example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Simple",
+        "3",
+        "example",
+        ".",
+        "navigation"
+      ],
+      "answer": "Simple navigation example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Simple navigation example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Simple navigation example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Simple navigation example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Simple navigation example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Simple navigation example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Simple navigation example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Simple navigation example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Simple navigation example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Simple navigation example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Simple navigation example 5.",
+      "options": [
+        "Simple navigation example 5.",
+        "Simple",
+        "Simple navigation example 5",
+        "5. example navigation Simple"
+      ],
+      "answer": 0
+    }
+  ]
+}

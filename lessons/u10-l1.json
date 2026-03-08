@@ -1,0 +1,87 @@
+{
+  "id": "u10l1",
+  "title": "Unidade 10 · Lição 1 – Weather",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Weather example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Weather example 2.",
+      "options": [
+        "Weather example 2.",
+        "Weather",
+        "2. example Weather",
+        "Weather example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "Weather",
+        "3",
+        "."
+      ],
+      "answer": "Weather example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Weather example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Weather example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Weather example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Weather example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Weather example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Weather example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Weather example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Weather example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Weather example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Weather example 5.",
+      "options": [
+        "Weather example 5.",
+        "Weather",
+        "Weather example 5",
+        "5. example Weather"
+      ],
+      "answer": 0
+    }
+  ]
+}

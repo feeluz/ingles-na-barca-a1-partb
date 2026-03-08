@@ -1,0 +1,87 @@
+{
+  "id": "u19l1",
+  "title": "Unidade 19 · Lição 1 – Past questions",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Did you work yesterday?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Did you eat dinner?",
+      "options": [
+        "Did you eat dinner?",
+        "Did",
+        "dinner? eat you Did",
+        "Did you eat dinner?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Did",
+        "TV?",
+        "watch",
+        "you"
+      ],
+      "answer": "Did you watch TV?"
+    },
+    {
+      "type": "dictation",
+      "text": "Did you study English?"
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Did you work yesterday?"
+        },
+        {
+          "id": "l2",
+          "text": "Did you eat dinner?"
+        },
+        {
+          "id": "l3",
+          "text": "Did you watch TV?"
+        },
+        {
+          "id": "l4",
+          "text": "Did you study English?"
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Did you eat dinner?"
+        },
+        {
+          "id": "l3",
+          "text": "Did you watch TV?"
+        },
+        {
+          "id": "l1",
+          "text": "Did you work yesterday?"
+        },
+        {
+          "id": "l4",
+          "text": "Did you study English?"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Did you walk home?",
+      "options": [
+        "Did you walk home?",
+        "home? walk you Did",
+        "Did you walk home?",
+        "Did"
+      ],
+      "answer": 0
+    }
+  ]
+}

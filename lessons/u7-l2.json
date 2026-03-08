@@ -1,0 +1,87 @@
+{
+  "id": "u7l2",
+  "title": "Unidade 7 · Lição 2 – Drinks",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Drinks example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Drinks example 2.",
+      "options": [
+        "Drinks",
+        "2. example Drinks",
+        "Drinks example 2.",
+        "Drinks example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        ".",
+        "example",
+        "Drinks"
+      ],
+      "answer": "Drinks example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Drinks example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Drinks example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Drinks example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Drinks example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Drinks example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Drinks example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Drinks example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Drinks example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Drinks example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Drinks example 5.",
+      "options": [
+        "Drinks",
+        "Drinks example 5.",
+        "Drinks example 5",
+        "5. example Drinks"
+      ],
+      "answer": 1
+    }
+  ]
+}

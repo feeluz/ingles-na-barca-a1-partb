@@ -1,0 +1,88 @@
+{
+  "id": "u13l1",
+  "title": "Unidade 13 · Lição 1 – Was / Were",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I was happy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "He was tired.",
+      "options": [
+        "He",
+        "tired. was He",
+        "He was tired.",
+        "He was tired"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "was",
+        "at",
+        "home",
+        "She"
+      ],
+      "answer": "She was at home."
+    },
+    {
+      "type": "dictation",
+      "text": "We were ready."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I was happy."
+        },
+        {
+          "id": "l2",
+          "text": "He was tired."
+        },
+        {
+          "id": "l3",
+          "text": "She was at home."
+        },
+        {
+          "id": "l4",
+          "text": "We were ready."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "He was tired."
+        },
+        {
+          "id": "l3",
+          "text": "She was at home."
+        },
+        {
+          "id": "l1",
+          "text": "I was happy."
+        },
+        {
+          "id": "l4",
+          "text": "We were ready."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "They were here.",
+      "options": [
+        "here. were They",
+        "They were here.",
+        "They were here",
+        "They"
+      ],
+      "answer": 1
+    }
+  ]
+}

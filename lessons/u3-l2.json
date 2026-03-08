@@ -1,0 +1,88 @@
+{
+  "id": "u3l2",
+  "title": "Unidade 3 · Lição 2 – Numbers 11–20",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Numbers 11–20 example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Numbers 11–20 example 2.",
+      "options": [
+        "2. example 11–20 Numbers",
+        "Numbers",
+        "Numbers 11–20 example 2",
+        "Numbers 11–20 example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Numbers",
+        "3",
+        ".",
+        "example",
+        "11–20"
+      ],
+      "answer": "Numbers 11–20 example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Numbers 11–20 example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Numbers 11–20 example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Numbers 11–20 example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Numbers 11–20 example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Numbers 11–20 example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Numbers 11–20 example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Numbers 11–20 example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Numbers 11–20 example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Numbers 11–20 example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Numbers 11–20 example 5.",
+      "options": [
+        "Numbers",
+        "Numbers 11–20 example 5.",
+        "5. example 11–20 Numbers",
+        "Numbers 11–20 example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

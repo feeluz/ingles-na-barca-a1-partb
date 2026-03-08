@@ -1,0 +1,87 @@
+{
+  "id": "u12l2",
+  "title": "Unidade 12 · Lição 2 – Vegetables",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Vegetables example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Vegetables example 2.",
+      "options": [
+        "Vegetables",
+        "2. example Vegetables",
+        "Vegetables example 2.",
+        "Vegetables example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "Vegetables",
+        "example",
+        "."
+      ],
+      "answer": "Vegetables example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Vegetables example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Vegetables example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Vegetables example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Vegetables example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Vegetables example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Vegetables example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Vegetables example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Vegetables example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Vegetables example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Vegetables example 5.",
+      "options": [
+        "Vegetables",
+        "Vegetables example 5.",
+        "5. example Vegetables",
+        "Vegetables example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

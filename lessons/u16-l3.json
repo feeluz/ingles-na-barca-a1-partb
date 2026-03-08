@@ -1,0 +1,90 @@
+{
+  "id": "u16l3",
+  "title": "Unidade 16 · Lição 3 – What color is it?",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "What color is it? example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What color is it? example 2.",
+      "options": [
+        "2. example it? is color What",
+        "What color is it? example 2.",
+        "What",
+        "What color is it? example 2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "What",
+        "it?",
+        "example",
+        "3",
+        "color",
+        "is"
+      ],
+      "answer": "What color is it? example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "What color is it? example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "What color is it? example 1."
+        },
+        {
+          "id": "l2",
+          "text": "What color is it? example 2."
+        },
+        {
+          "id": "l3",
+          "text": "What color is it? example 3."
+        },
+        {
+          "id": "l4",
+          "text": "What color is it? example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "What color is it? example 2."
+        },
+        {
+          "id": "l3",
+          "text": "What color is it? example 3."
+        },
+        {
+          "id": "l4",
+          "text": "What color is it? example 4."
+        },
+        {
+          "id": "l1",
+          "text": "What color is it? example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What color is it? example 5.",
+      "options": [
+        "5. example it? is color What",
+        "What color is it? example 5.",
+        "What color is it? example 5",
+        "What"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u17l1",
+  "title": "Unidade 17 · Lição 1 – House rooms",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "House rooms example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "House rooms example 2.",
+      "options": [
+        "House rooms example 2.",
+        "2. example rooms House",
+        "House",
+        "House rooms example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "House",
+        ".",
+        "example",
+        "rooms",
+        "3"
+      ],
+      "answer": "House rooms example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "House rooms example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "House rooms example 1."
+        },
+        {
+          "id": "l2",
+          "text": "House rooms example 2."
+        },
+        {
+          "id": "l3",
+          "text": "House rooms example 3."
+        },
+        {
+          "id": "l4",
+          "text": "House rooms example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "House rooms example 2."
+        },
+        {
+          "id": "l3",
+          "text": "House rooms example 3."
+        },
+        {
+          "id": "l1",
+          "text": "House rooms example 1."
+        },
+        {
+          "id": "l4",
+          "text": "House rooms example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "House rooms example 5.",
+      "options": [
+        "House rooms example 5",
+        "5. example rooms House",
+        "House",
+        "House rooms example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

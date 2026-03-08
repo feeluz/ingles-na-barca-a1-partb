@@ -1,0 +1,88 @@
+{
+  "id": "u4l5",
+  "title": "Unidade 4 · Lição 5 – Review places",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review places example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review places example 2.",
+      "options": [
+        "Review places example 2.",
+        "2. example places Review",
+        "Review places example 2",
+        "Review"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "3",
+        "places",
+        ".",
+        "Review"
+      ],
+      "answer": "Review places example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review places example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review places example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review places example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review places example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review places example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Review places example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review places example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Review places example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review places example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review places example 5.",
+      "options": [
+        "Review",
+        "Review places example 5.",
+        "5. example places Review",
+        "Review places example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

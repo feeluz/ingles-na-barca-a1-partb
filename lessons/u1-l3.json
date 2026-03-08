@@ -1,0 +1,90 @@
+{
+  "id": "u1l3",
+  "title": "Unidade 1 · Lição 3 – I am a student",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I am a student example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am a student example 2.",
+      "options": [
+        "I am a student example 2",
+        "2. example student a am I",
+        "I am a student example 2.",
+        "I"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "a",
+        "student",
+        ".",
+        "example",
+        "am",
+        "3",
+        "I"
+      ],
+      "answer": "I am a student example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "I am a student example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I am a student example 1."
+        },
+        {
+          "id": "l2",
+          "text": "I am a student example 2."
+        },
+        {
+          "id": "l3",
+          "text": "I am a student example 3."
+        },
+        {
+          "id": "l4",
+          "text": "I am a student example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "I am a student example 1."
+        },
+        {
+          "id": "l2",
+          "text": "I am a student example 2."
+        },
+        {
+          "id": "l3",
+          "text": "I am a student example 3."
+        },
+        {
+          "id": "l4",
+          "text": "I am a student example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am a student example 5.",
+      "options": [
+        "I",
+        "I am a student example 5.",
+        "I am a student example 5",
+        "5. example student a am I"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u11l1",
+  "title": "Unidade 11 · Lição 1 – Alphabet A–F",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Alphabet A–F example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet A–F example 2.",
+      "options": [
+        "Alphabet A–F example 2.",
+        "2. example A–F Alphabet",
+        "Alphabet",
+        "Alphabet A–F example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "Alphabet",
+        ".",
+        "A–F",
+        "example"
+      ],
+      "answer": "Alphabet A–F example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Alphabet A–F example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Alphabet A–F example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Alphabet A–F example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet A–F example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet A–F example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Alphabet A–F example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet A–F example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Alphabet A–F example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet A–F example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet A–F example 5.",
+      "options": [
+        "Alphabet",
+        "Alphabet A–F example 5",
+        "Alphabet A–F example 5.",
+        "5. example A–F Alphabet"
+      ],
+      "answer": 2
+    }
+  ]
+}

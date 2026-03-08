@@ -1,0 +1,88 @@
+{
+  "id": "u3l5",
+  "title": "Unidade 3 · Lição 5 – Review numbers",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review numbers example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review numbers example 2.",
+      "options": [
+        "Review numbers example 2",
+        "Review numbers example 2.",
+        "Review",
+        "2. example numbers Review"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "3",
+        "numbers",
+        "example",
+        "Review"
+      ],
+      "answer": "Review numbers example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review numbers example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review numbers example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review numbers example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review numbers example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review numbers example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Review numbers example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Review numbers example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Review numbers example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Review numbers example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review numbers example 5.",
+      "options": [
+        "Review numbers example 5.",
+        "5. example numbers Review",
+        "Review",
+        "Review numbers example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

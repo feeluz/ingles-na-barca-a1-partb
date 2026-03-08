@@ -1,0 +1,88 @@
+{
+  "id": "u17l5",
+  "title": "Unidade 17 · Lição 5 – Home review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Home review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Home review example 2.",
+      "options": [
+        "2. example review Home",
+        "Home review example 2.",
+        "Home review example 2",
+        "Home"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "review",
+        ".",
+        "3",
+        "Home"
+      ],
+      "answer": "Home review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Home review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Home review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Home review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Home review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Home review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Home review example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Home review example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Home review example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Home review example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Home review example 5.",
+      "options": [
+        "Home review example 5.",
+        "Home",
+        "Home review example 5",
+        "5. example review Home"
+      ],
+      "answer": 0
+    }
+  ]
+}

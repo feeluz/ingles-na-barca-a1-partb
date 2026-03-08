@@ -1,0 +1,88 @@
+{
+  "id": "u14l2",
+  "title": "Unidade 14 · Lição 2 – I don't",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I don't example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don't example 2.",
+      "options": [
+        "I",
+        "2. example don't I",
+        "I don't example 2.",
+        "I don't example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "3",
+        ".",
+        "example",
+        "don't"
+      ],
+      "answer": "I don't example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "I don't example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I don't example 1."
+        },
+        {
+          "id": "l2",
+          "text": "I don't example 2."
+        },
+        {
+          "id": "l3",
+          "text": "I don't example 3."
+        },
+        {
+          "id": "l4",
+          "text": "I don't example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "I don't example 4."
+        },
+        {
+          "id": "l3",
+          "text": "I don't example 3."
+        },
+        {
+          "id": "l2",
+          "text": "I don't example 2."
+        },
+        {
+          "id": "l1",
+          "text": "I don't example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don't example 5.",
+      "options": [
+        "I don't example 5.",
+        "I don't example 5",
+        "I",
+        "5. example don't I"
+      ],
+      "answer": 0
+    }
+  ]
+}

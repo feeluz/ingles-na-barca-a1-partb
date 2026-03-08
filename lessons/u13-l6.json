@@ -1,0 +1,88 @@
+{
+  "id": "u13l6",
+  "title": "Unidade 13 · Lição 6 – Past practice",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Past practice example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Past practice example 2.",
+      "options": [
+        "Past practice example 2.",
+        "Past practice example 2",
+        "2. example practice Past",
+        "Past"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        ".",
+        "3",
+        "practice",
+        "Past"
+      ],
+      "answer": "Past practice example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Past practice example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Past practice example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Past practice example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Past practice example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Past practice example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Past practice example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Past practice example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Past practice example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Past practice example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Past practice example 5.",
+      "options": [
+        "Past practice example 5.",
+        "Past practice example 5",
+        "5. example practice Past",
+        "Past"
+      ],
+      "answer": 0
+    }
+  ]
+}

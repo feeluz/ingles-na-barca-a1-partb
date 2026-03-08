@@ -1,0 +1,88 @@
+{
+  "id": "u13l3",
+  "title": "Unidade 13 · Lição 3 – Yesterday expressions",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Yesterday expressions example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Yesterday expressions example 2.",
+      "options": [
+        "Yesterday",
+        "Yesterday expressions example 2",
+        "Yesterday expressions example 2.",
+        "2. example expressions Yesterday"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "Yesterday",
+        "expressions",
+        "example",
+        "3"
+      ],
+      "answer": "Yesterday expressions example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Yesterday expressions example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Yesterday expressions example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Yesterday expressions example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Yesterday expressions example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Yesterday expressions example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Yesterday expressions example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Yesterday expressions example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Yesterday expressions example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Yesterday expressions example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Yesterday expressions example 5.",
+      "options": [
+        "Yesterday expressions example 5",
+        "Yesterday expressions example 5.",
+        "Yesterday",
+        "5. example expressions Yesterday"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u3l3",
+  "title": "Unidade 3 · Lição 3 – Age",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Age example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Age example 2.",
+      "options": [
+        "2. example Age",
+        "Age example 2",
+        "Age",
+        "Age example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        ".",
+        "Age",
+        "example"
+      ],
+      "answer": "Age example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Age example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Age example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Age example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Age example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Age example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Age example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Age example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Age example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Age example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Age example 5.",
+      "options": [
+        "Age example 5.",
+        "5. example Age",
+        "Age",
+        "Age example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u17l6",
+  "title": "Unidade 17 · Lição 6 – Listening home",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening home example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening home example 2.",
+      "options": [
+        "Listening home example 2",
+        "Listening",
+        "2. example home Listening",
+        "Listening home example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        ".",
+        "Listening",
+        "home",
+        "3"
+      ],
+      "answer": "Listening home example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening home example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening home example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening home example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening home example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening home example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Listening home example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Listening home example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Listening home example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Listening home example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening home example 5.",
+      "options": [
+        "5. example home Listening",
+        "Listening",
+        "Listening home example 5",
+        "Listening home example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

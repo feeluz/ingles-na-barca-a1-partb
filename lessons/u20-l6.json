@@ -1,0 +1,88 @@
+{
+  "id": "u20l6",
+  "title": "Unidade 20 · Lição 6 – Listening final",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening final example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening final example 2.",
+      "options": [
+        "2. example final Listening",
+        "Listening final example 2",
+        "Listening final example 2.",
+        "Listening"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "final",
+        "3",
+        "Listening",
+        "example"
+      ],
+      "answer": "Listening final example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening final example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening final example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening final example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening final example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening final example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Listening final example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Listening final example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Listening final example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Listening final example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening final example 5.",
+      "options": [
+        "Listening final example 5.",
+        "Listening",
+        "Listening final example 5",
+        "5. example final Listening"
+      ],
+      "answer": 0
+    }
+  ]
+}

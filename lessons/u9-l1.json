@@ -1,0 +1,87 @@
+{
+  "id": "u9l1",
+  "title": "Unidade 9 · Lição 1 – Time",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Time example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Time example 2.",
+      "options": [
+        "Time example 2",
+        "Time example 2.",
+        "2. example Time",
+        "Time"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        ".",
+        "3",
+        "Time"
+      ],
+      "answer": "Time example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Time example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Time example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Time example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Time example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Time example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Time example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Time example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Time example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Time example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Time example 5.",
+      "options": [
+        "Time",
+        "Time example 5.",
+        "5. example Time",
+        "Time example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

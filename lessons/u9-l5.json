@@ -1,0 +1,88 @@
+{
+  "id": "u9l5",
+  "title": "Unidade 9 · Lição 5 – Review time",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review time example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review time example 2.",
+      "options": [
+        "2. example time Review",
+        "Review time example 2.",
+        "Review time example 2",
+        "Review"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "time",
+        "Review",
+        "example",
+        ".",
+        "3"
+      ],
+      "answer": "Review time example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review time example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review time example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review time example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review time example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review time example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Review time example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Review time example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Review time example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review time example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review time example 5.",
+      "options": [
+        "Review time example 5",
+        "5. example time Review",
+        "Review",
+        "Review time example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

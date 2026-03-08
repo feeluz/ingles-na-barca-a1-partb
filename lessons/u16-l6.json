@@ -1,0 +1,89 @@
+{
+  "id": "u16l6",
+  "title": "Unidade 16 · Lição 6 – Listening clothes B",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening clothes B example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening clothes B example 2.",
+      "options": [
+        "2. example B clothes Listening",
+        "Listening",
+        "Listening clothes B example 2.",
+        "Listening clothes B example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "clothes",
+        "example",
+        "Listening",
+        ".",
+        "B"
+      ],
+      "answer": "Listening clothes B example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening clothes B example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening clothes B example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening clothes B example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening clothes B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening clothes B example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Listening clothes B example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Listening clothes B example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Listening clothes B example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Listening clothes B example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening clothes B example 5.",
+      "options": [
+        "Listening",
+        "Listening clothes B example 5",
+        "5. example B clothes Listening",
+        "Listening clothes B example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

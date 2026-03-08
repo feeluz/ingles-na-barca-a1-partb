@@ -1,0 +1,88 @@
+{
+  "id": "u5l5",
+  "title": "Unidade 5 · Lição 5 – Review people",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review people example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review people example 2.",
+      "options": [
+        "2. example people Review",
+        "Review",
+        "Review people example 2",
+        "Review people example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "people",
+        "example",
+        ".",
+        "Review",
+        "3"
+      ],
+      "answer": "Review people example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review people example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review people example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review people example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review people example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review people example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Review people example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Review people example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review people example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Review people example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review people example 5.",
+      "options": [
+        "Review people example 5.",
+        "Review people example 5",
+        "5. example people Review",
+        "Review"
+      ],
+      "answer": 0
+    }
+  ]
+}

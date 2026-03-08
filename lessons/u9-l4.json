@@ -1,0 +1,88 @@
+{
+  "id": "u9l4",
+  "title": "Unidade 9 · Lição 4 – Meeting times",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Meeting times example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Meeting times example 2.",
+      "options": [
+        "2. example times Meeting",
+        "Meeting times example 2.",
+        "Meeting",
+        "Meeting times example 2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Meeting",
+        "example",
+        ".",
+        "times",
+        "3"
+      ],
+      "answer": "Meeting times example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Meeting times example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Meeting times example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Meeting times example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Meeting times example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Meeting times example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Meeting times example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Meeting times example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Meeting times example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Meeting times example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Meeting times example 5.",
+      "options": [
+        "Meeting times example 5.",
+        "Meeting times example 5",
+        "5. example times Meeting",
+        "Meeting"
+      ],
+      "answer": 0
+    }
+  ]
+}

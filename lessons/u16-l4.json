@@ -1,0 +1,89 @@
+{
+  "id": "u16l4",
+  "title": "Unidade 16 · Lição 4 – Clothes sentences B",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Clothes sentences B example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Clothes sentences B example 2.",
+      "options": [
+        "Clothes sentences B example 2.",
+        "Clothes",
+        "2. example B sentences Clothes",
+        "Clothes sentences B example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "B",
+        "3",
+        "Clothes",
+        "sentences",
+        "example",
+        "."
+      ],
+      "answer": "Clothes sentences B example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Clothes sentences B example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Clothes sentences B example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Clothes sentences B example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Clothes sentences B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Clothes sentences B example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Clothes sentences B example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Clothes sentences B example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Clothes sentences B example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Clothes sentences B example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Clothes sentences B example 5.",
+      "options": [
+        "Clothes sentences B example 5",
+        "Clothes sentences B example 5.",
+        "Clothes",
+        "5. example B sentences Clothes"
+      ],
+      "answer": 1
+    }
+  ]
+}

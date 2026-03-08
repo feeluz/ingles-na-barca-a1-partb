@@ -1,0 +1,89 @@
+{
+  "id": "u1l2",
+  "title": "Unidade 1 · Lição 2 – Where are you from?",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I am from Brazil."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am from Canada.",
+      "options": [
+        "I am from Canada.",
+        "Canada. from am I",
+        "I",
+        "I am from Canada"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "from",
+        "the",
+        "I",
+        "USA",
+        "am",
+        "."
+      ],
+      "answer": "I am from the USA."
+    },
+    {
+      "type": "dictation",
+      "text": "Where are you from?"
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I am from Brazil."
+        },
+        {
+          "id": "l2",
+          "text": "I am from Canada."
+        },
+        {
+          "id": "l3",
+          "text": "I am from the USA."
+        },
+        {
+          "id": "l4",
+          "text": "Where are you from?"
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "Where are you from?"
+        },
+        {
+          "id": "l2",
+          "text": "I am from Canada."
+        },
+        {
+          "id": "l3",
+          "text": "I am from the USA."
+        },
+        {
+          "id": "l1",
+          "text": "I am from Brazil."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I am from France.",
+      "options": [
+        "France. from am I",
+        "I am from France",
+        "I",
+        "I am from France."
+      ],
+      "answer": 3
+    }
+  ]
+}

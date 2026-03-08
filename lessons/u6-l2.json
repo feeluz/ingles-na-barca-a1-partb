@@ -1,0 +1,88 @@
+{
+  "id": "u6l2",
+  "title": "Unidade 6 · Lição 2 – Morning routine",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Morning routine example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Morning routine example 2.",
+      "options": [
+        "2. example routine Morning",
+        "Morning routine example 2",
+        "Morning routine example 2.",
+        "Morning"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "routine",
+        "example",
+        "3",
+        ".",
+        "Morning"
+      ],
+      "answer": "Morning routine example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Morning routine example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Morning routine example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Morning routine example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Morning routine example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Morning routine example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Morning routine example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Morning routine example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Morning routine example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Morning routine example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Morning routine example 5.",
+      "options": [
+        "Morning",
+        "Morning routine example 5.",
+        "5. example routine Morning",
+        "Morning routine example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

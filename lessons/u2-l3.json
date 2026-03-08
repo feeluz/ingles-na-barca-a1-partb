@@ -1,0 +1,90 @@
+{
+  "id": "u2l3",
+  "title": "Unidade 2 · Lição 3 – Nice to meet you",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Nice to meet you example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Nice to meet you example 2.",
+      "options": [
+        "Nice to meet you example 2",
+        "2. example you meet to Nice",
+        "Nice",
+        "Nice to meet you example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "you",
+        "to",
+        ".",
+        "Nice",
+        "meet",
+        "example"
+      ],
+      "answer": "Nice to meet you example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Nice to meet you example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Nice to meet you example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Nice to meet you example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Nice to meet you example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Nice to meet you example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Nice to meet you example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Nice to meet you example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Nice to meet you example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Nice to meet you example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Nice to meet you example 5.",
+      "options": [
+        "Nice",
+        "5. example you meet to Nice",
+        "Nice to meet you example 5",
+        "Nice to meet you example 5."
+      ],
+      "answer": 3
+    }
+  ]
+}

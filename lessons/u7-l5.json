@@ -1,0 +1,88 @@
+{
+  "id": "u7l5",
+  "title": "Unidade 7 · Lição 5 – Review food",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Review food example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review food example 2.",
+      "options": [
+        "2. example food Review",
+        "Review food example 2",
+        "Review",
+        "Review food example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Review",
+        "example",
+        ".",
+        "food",
+        "3"
+      ],
+      "answer": "Review food example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Review food example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Review food example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Review food example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review food example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review food example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Review food example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Review food example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Review food example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Review food example 1."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review food example 5.",
+      "options": [
+        "5. example food Review",
+        "Review food example 5.",
+        "Review food example 5",
+        "Review"
+      ],
+      "answer": 1
+    }
+  ]
+}

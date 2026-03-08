@@ -1,0 +1,89 @@
+{
+  "id": "u14l1",
+  "title": "Unidade 14 · Lição 1 – Negative sentences",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I do not work."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I do not eat fish.",
+      "options": [
+        "I",
+        "I do not eat fish",
+        "fish. eat not do I",
+        "I do not eat fish."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "do",
+        ".",
+        "coffee",
+        "I",
+        "like",
+        "not"
+      ],
+      "answer": "I do not like coffee."
+    },
+    {
+      "type": "dictation",
+      "text": "I do not watch TV."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I do not work."
+        },
+        {
+          "id": "l2",
+          "text": "I do not eat fish."
+        },
+        {
+          "id": "l3",
+          "text": "I do not like coffee."
+        },
+        {
+          "id": "l4",
+          "text": "I do not watch TV."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "I do not watch TV."
+        },
+        {
+          "id": "l2",
+          "text": "I do not eat fish."
+        },
+        {
+          "id": "l1",
+          "text": "I do not work."
+        },
+        {
+          "id": "l3",
+          "text": "I do not like coffee."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I do not drive.",
+      "options": [
+        "drive. not do I",
+        "I do not drive.",
+        "I",
+        "I do not drive"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u12l1",
+  "title": "Unidade 12 · Lição 1 – Fruits",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "I like apples."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I like bananas.",
+      "options": [
+        "I like bananas",
+        "bananas. like I",
+        "I",
+        "I like bananas."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "like",
+        "I",
+        ".",
+        "oranges"
+      ],
+      "answer": "I like oranges."
+    },
+    {
+      "type": "dictation",
+      "text": "I like grapes."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "I like apples."
+        },
+        {
+          "id": "l2",
+          "text": "I like bananas."
+        },
+        {
+          "id": "l3",
+          "text": "I like oranges."
+        },
+        {
+          "id": "l4",
+          "text": "I like grapes."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "I like bananas."
+        },
+        {
+          "id": "l4",
+          "text": "I like grapes."
+        },
+        {
+          "id": "l1",
+          "text": "I like apples."
+        },
+        {
+          "id": "l3",
+          "text": "I like oranges."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I like mangoes.",
+      "options": [
+        "mangoes. like I",
+        "I",
+        "I like mangoes.",
+        "I like mangoes"
+      ],
+      "answer": 2
+    }
+  ]
+}

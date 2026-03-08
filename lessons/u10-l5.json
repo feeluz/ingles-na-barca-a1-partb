@@ -1,0 +1,88 @@
+{
+  "id": "u10l5",
+  "title": "Unidade 10 · Lição 5 – Final review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Final review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Final review example 2.",
+      "options": [
+        "2. example review Final",
+        "Final review example 2.",
+        "Final review example 2",
+        "Final"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "review",
+        ".",
+        "Final",
+        "3"
+      ],
+      "answer": "Final review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Final review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Final review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Final review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Final review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Final review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Final review example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Final review example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Final review example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Final review example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Final review example 5.",
+      "options": [
+        "Final",
+        "Final review example 5.",
+        "Final review example 5",
+        "5. example review Final"
+      ],
+      "answer": 1
+    }
+  ]
+}

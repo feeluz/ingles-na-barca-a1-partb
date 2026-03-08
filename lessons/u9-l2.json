@@ -1,0 +1,90 @@
+{
+  "id": "u9l2",
+  "title": "Unidade 9 · Lição 2 – Days of the week",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Days of the week example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Days of the week example 2.",
+      "options": [
+        "Days of the week example 2",
+        "Days of the week example 2.",
+        "2. example week the of Days",
+        "Days"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Days",
+        ".",
+        "of",
+        "the",
+        "week",
+        "example",
+        "3"
+      ],
+      "answer": "Days of the week example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Days of the week example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Days of the week example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Days of the week example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Days of the week example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Days of the week example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Days of the week example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Days of the week example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Days of the week example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Days of the week example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Days of the week example 5.",
+      "options": [
+        "Days",
+        "5. example week the of Days",
+        "Days of the week example 5.",
+        "Days of the week example 5"
+      ],
+      "answer": 2
+    }
+  ]
+}

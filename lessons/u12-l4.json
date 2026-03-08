@@ -1,0 +1,89 @@
+{
+  "id": "u12l4",
+  "title": "Unidade 12 · Lição 4 – Do you like…?",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Do you like…? example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Do you like…? example 2.",
+      "options": [
+        "Do you like…? example 2.",
+        "Do",
+        "Do you like…? example 2",
+        "2. example like…? you Do"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "Do",
+        "like…?",
+        "you",
+        "3",
+        "."
+      ],
+      "answer": "Do you like…? example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like…? example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Do you like…? example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Do you like…? example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Do you like…? example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Do you like…? example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Do you like…? example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Do you like…? example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Do you like…? example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Do you like…? example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Do you like…? example 5.",
+      "options": [
+        "Do you like…? example 5",
+        "Do you like…? example 5.",
+        "5. example like…? you Do",
+        "Do"
+      ],
+      "answer": 1
+    }
+  ]
+}

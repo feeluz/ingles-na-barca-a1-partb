@@ -1,0 +1,88 @@
+{
+  "id": "u11l4",
+  "title": "Unidade 11 · Lição 4 – Alphabet S–Z",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Alphabet S–Z example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet S–Z example 2.",
+      "options": [
+        "Alphabet S–Z example 2.",
+        "Alphabet S–Z example 2",
+        "2. example S–Z Alphabet",
+        "Alphabet"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "S–Z",
+        "Alphabet",
+        "3",
+        "example",
+        "."
+      ],
+      "answer": "Alphabet S–Z example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Alphabet S–Z example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Alphabet S–Z example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Alphabet S–Z example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet S–Z example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet S–Z example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l2",
+          "text": "Alphabet S–Z example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet S–Z example 4."
+        },
+        {
+          "id": "l1",
+          "text": "Alphabet S–Z example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet S–Z example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet S–Z example 5.",
+      "options": [
+        "Alphabet S–Z example 5",
+        "Alphabet S–Z example 5.",
+        "5. example S–Z Alphabet",
+        "Alphabet"
+      ],
+      "answer": 1
+    }
+  ]
+}

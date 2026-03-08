@@ -1,0 +1,88 @@
+{
+  "id": "u15l5",
+  "title": "Unidade 15 · Lição 5 – Animal review",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Animal review example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animal review example 2.",
+      "options": [
+        "Animal review example 2",
+        "2. example review Animal",
+        "Animal",
+        "Animal review example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "Animal",
+        "3",
+        ".",
+        "review"
+      ],
+      "answer": "Animal review example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Animal review example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Animal review example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Animal review example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Animal review example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Animal review example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Animal review example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Animal review example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Animal review example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Animal review example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animal review example 5.",
+      "options": [
+        "Animal review example 5",
+        "Animal review example 5.",
+        "5. example review Animal",
+        "Animal"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u14l6",
+  "title": "Unidade 14 · Lição 6 – Listening negatives",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Listening negatives example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening negatives example 2.",
+      "options": [
+        "Listening",
+        "2. example negatives Listening",
+        "Listening negatives example 2.",
+        "Listening negatives example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Listening",
+        "3",
+        "example",
+        "negatives",
+        "."
+      ],
+      "answer": "Listening negatives example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Listening negatives example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Listening negatives example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Listening negatives example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening negatives example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Listening negatives example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Listening negatives example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Listening negatives example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Listening negatives example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Listening negatives example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Listening negatives example 5.",
+      "options": [
+        "Listening negatives example 5.",
+        "Listening",
+        "5. example negatives Listening",
+        "Listening negatives example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u11l2",
+  "title": "Unidade 11 · Lição 2 – Alphabet G–L",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Alphabet G–L example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet G–L example 2.",
+      "options": [
+        "2. example G–L Alphabet",
+        "Alphabet G–L example 2.",
+        "Alphabet",
+        "Alphabet G–L example 2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Alphabet",
+        "example",
+        ".",
+        "3",
+        "G–L"
+      ],
+      "answer": "Alphabet G–L example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Alphabet G–L example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Alphabet G–L example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Alphabet G–L example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet G–L example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet G–L example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Alphabet G–L example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Alphabet G–L example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Alphabet G–L example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Alphabet G–L example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Alphabet G–L example 5.",
+      "options": [
+        "Alphabet G–L example 5.",
+        "5. example G–L Alphabet",
+        "Alphabet G–L example 5",
+        "Alphabet"
+      ],
+      "answer": 0
+    }
+  ]
+}

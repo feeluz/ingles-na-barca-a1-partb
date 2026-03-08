@@ -1,0 +1,87 @@
+{
+  "id": "u16l1",
+  "title": "Unidade 16 · Lição 1 – Colors",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Colors example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Colors example 2.",
+      "options": [
+        "Colors example 2.",
+        "Colors example 2",
+        "Colors",
+        "2. example Colors"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Colors",
+        ".",
+        "3",
+        "example"
+      ],
+      "answer": "Colors example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Colors example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Colors example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Colors example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Colors example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Colors example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l3",
+          "text": "Colors example 3."
+        },
+        {
+          "id": "l1",
+          "text": "Colors example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Colors example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Colors example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Colors example 5.",
+      "options": [
+        "Colors example 5",
+        "Colors example 5.",
+        "Colors",
+        "5. example Colors"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u5l1",
+  "title": "Unidade 5 · Lição 1 – Family",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Family example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Family example 2.",
+      "options": [
+        "Family example 2.",
+        "2. example Family",
+        "Family example 2",
+        "Family"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "example",
+        ".",
+        "Family"
+      ],
+      "answer": "Family example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Family example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Family example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Family example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Family example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Family example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Family example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Family example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Family example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Family example 4."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Family example 5.",
+      "options": [
+        "5. example Family",
+        "Family example 5.",
+        "Family",
+        "Family example 5"
+      ],
+      "answer": 1
+    }
+  ]
+}

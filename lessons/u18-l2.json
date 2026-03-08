@@ -1,0 +1,87 @@
+{
+  "id": "u18l2",
+  "title": "Unidade 18 · Lição 2 – Transportation",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Transportation example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Transportation example 2.",
+      "options": [
+        "Transportation",
+        "Transportation example 2",
+        "2. example Transportation",
+        "Transportation example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "Transportation",
+        "example",
+        "3"
+      ],
+      "answer": "Transportation example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Transportation example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Transportation example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Transportation example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Transportation example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Transportation example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l4",
+          "text": "Transportation example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Transportation example 2."
+        },
+        {
+          "id": "l1",
+          "text": "Transportation example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Transportation example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Transportation example 5.",
+      "options": [
+        "Transportation example 5",
+        "Transportation example 5.",
+        "5. example Transportation",
+        "Transportation"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "u15l4",
+  "title": "Unidade 15 · Lição 4 – Animal sentences",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Animal sentences example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animal sentences example 2.",
+      "options": [
+        "Animal sentences example 2",
+        "Animal",
+        "2. example sentences Animal",
+        "Animal sentences example 2."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        ".",
+        "Animal",
+        "example",
+        "3",
+        "sentences"
+      ],
+      "answer": "Animal sentences example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Animal sentences example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Animal sentences example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Animal sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Animal sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Animal sentences example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Animal sentences example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Animal sentences example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Animal sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Animal sentences example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Animal sentences example 5.",
+      "options": [
+        "5. example sentences Animal",
+        "Animal",
+        "Animal sentences example 5.",
+        "Animal sentences example 5"
+      ],
+      "answer": 2
+    }
+  ]
+}

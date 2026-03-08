@@ -1,0 +1,88 @@
+{
+  "id": "u18l1",
+  "title": "Unidade 18 · Lição 1 – Travel words",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Travel words example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel words example 2.",
+      "options": [
+        "Travel",
+        "2. example words Travel",
+        "Travel words example 2.",
+        "Travel words example 2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "3",
+        "Travel",
+        "words",
+        "example",
+        "."
+      ],
+      "answer": "Travel words example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Travel words example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Travel words example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Travel words example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Travel words example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Travel words example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Travel words example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Travel words example 2."
+        },
+        {
+          "id": "l4",
+          "text": "Travel words example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Travel words example 3."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel words example 5.",
+      "options": [
+        "Travel words example 5",
+        "Travel",
+        "Travel words example 5.",
+        "5. example words Travel"
+      ],
+      "answer": 2
+    }
+  ]
+}

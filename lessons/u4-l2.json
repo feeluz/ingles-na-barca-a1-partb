@@ -1,0 +1,87 @@
+{
+  "id": "u4l2",
+  "title": "Unidade 4 · Lição 2 – Cities",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Cities example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Cities example 2.",
+      "options": [
+        "Cities example 2.",
+        "Cities",
+        "2. example Cities",
+        "Cities example 2"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Cities",
+        ".",
+        "example",
+        "3"
+      ],
+      "answer": "Cities example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Cities example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Cities example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Cities example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Cities example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Cities example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Cities example 1."
+        },
+        {
+          "id": "l4",
+          "text": "Cities example 4."
+        },
+        {
+          "id": "l3",
+          "text": "Cities example 3."
+        },
+        {
+          "id": "l2",
+          "text": "Cities example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Cities example 5.",
+      "options": [
+        "Cities",
+        "Cities example 5.",
+        "Cities example 5",
+        "5. example Cities"
+      ],
+      "answer": 1
+    }
+  ]
+}

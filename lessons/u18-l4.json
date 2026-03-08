@@ -1,0 +1,88 @@
+{
+  "id": "u18l4",
+  "title": "Unidade 18 · Lição 4 – Travel sentences",
+  "items": [
+    {
+      "type": "dictation",
+      "text": "Travel sentences example 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel sentences example 2.",
+      "options": [
+        "Travel sentences example 2.",
+        "Travel sentences example 2",
+        "2. example sentences Travel",
+        "Travel"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "example",
+        "3",
+        ".",
+        "Travel",
+        "sentences"
+      ],
+      "answer": "Travel sentences example 3."
+    },
+    {
+      "type": "dictation",
+      "text": "Travel sentences example 4."
+    },
+    {
+      "type": "match",
+      "prompt": "Match each item.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Travel sentences example 1."
+        },
+        {
+          "id": "l2",
+          "text": "Travel sentences example 2."
+        },
+        {
+          "id": "l3",
+          "text": "Travel sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Travel sentences example 4."
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Travel sentences example 1."
+        },
+        {
+          "id": "l3",
+          "text": "Travel sentences example 3."
+        },
+        {
+          "id": "l4",
+          "text": "Travel sentences example 4."
+        },
+        {
+          "id": "l2",
+          "text": "Travel sentences example 2."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Travel sentences example 5.",
+      "options": [
+        "Travel sentences example 5.",
+        "5. example sentences Travel",
+        "Travel",
+        "Travel sentences example 5"
+      ],
+      "answer": 0
+    }
+  ]
+}
