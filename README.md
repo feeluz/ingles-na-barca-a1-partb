@@ -18,3 +18,9 @@ Publicação:
 
 
 Patched ocean map layout: all 20 units now fit inside the visible map area.
+
+
+Vertical flashy map patch: same visual style, but the ocean map is now tall and scrollable so all 20 units fit naturally.
+
+
+Cinematic patch: wave bands, chapter markers, midpoint badge, and animated final lighthouse scene.
