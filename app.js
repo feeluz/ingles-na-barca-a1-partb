@@ -14,7 +14,7 @@ function normalize(str){return String(str).trim().replace(/\s+/g,' ').toLowerCas
 function renderMap(){
   const container=document.getElementById('unitContainer'); if(!container) return;
   const routePath=document.getElementById('routePath'); const boat=document.getElementById('boat');
-  const state=getState(); const path=[{x:12,y:10},{x:34,y:18},{x:58,y:10},{x:80,y:20},{x:65,y:36},{x:40,y:30},{x:18,y:40},{x:28,y:56},{x:52,y:50},{x:76,y:58},{x:84,y:74},{x:62,y:82},{x:36,y:74},{x:14,y:84},{x:20,y:102},{x:44,y:96},{x:68,y:106},{x:86,y:98},{x:70,y:120},{x:40,y:116}];
+  const state=getState(); const path=[{x:12,y:10},{x:34,y:16},{x:58,y:10},{x:80,y:18},{x:68,y:28},{x:42,y:24},{x:18,y:32},{x:28,y:42},{x:52,y:38},{x:76,y:46},{x:84,y:58},{x:62,y:64},{x:36,y:58},{x:14,y:68},{x:22,y:78},{x:46,y:74},{x:70,y:82},{x:86,y:76},{x:68,y:90},{x:40,y:86}];
   routePath.setAttribute('d', path.map((p,i)=>`${i===0?'M':'L'} ${p.x} ${p.y}`).join(' '));
   document.getElementById('xpStat').textContent=state.xp; document.getElementById('streakStat').textContent=state.streak;
   const units=window.COURSE.units.map((unit,i)=>{const unitDone=unit.lessons.filter(l=>state.completed[l.id]).length;return {...unit,completed:unitDone===unit.lessons.length,current:unitDone<unit.lessons.length && isUnlocked(unit.lessons[0].id,state),locked:!isUnlocked(unit.lessons[0].id,state),stars:unitDone===unit.lessons.length?3:unitDone>0?1:0};});

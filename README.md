@@ -15,3 +15,6 @@ Publicação:
 2. Preserve a pasta `lessons`.
 3. Ative o GitHub Pages em Settings > Pages.
 4. Abra o site publicado.
+
+
+Patched ocean map layout: all 20 units now fit inside the visible map area.
